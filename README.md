@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a campus website.
 - 🌱 I’m currently learning bootstrap
+- 👯 I’m looking to collaborate on all frontend development areas
 <!--
 **Emiton01/emiton01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
