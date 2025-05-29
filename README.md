@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a campus website.
+- 🔭 I’m currently working on a church website.
 - 🌱 I’m currently learning bootstrap
 - 👯 I’m looking to collaborate on all frontend development areas
 - 🤔 I’m looking for help with backend development
